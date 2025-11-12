@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Large datasets (>25MB GitHub limit)
+genome_scores.csv
+rating.csv
